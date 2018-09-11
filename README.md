@@ -8,3 +8,5 @@ See it live at:
 www.tolu.xyz/explore_more
 
 
+uses: javascript · html/css · boostrap · ajax · json
+
